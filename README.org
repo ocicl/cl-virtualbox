@@ -1,0 +1,10 @@
+* cl-virtualbox
+
+Control VirtualBox from Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/cl-virtualbox.git   |
+| commit  | 690f0df  |
+| systems | cl-virtualbox |
+|---------+-------------------------------------------|
+
